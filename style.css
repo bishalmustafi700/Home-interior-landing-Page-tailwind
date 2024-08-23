@@ -1,0 +1,7 @@
+.form-bg-container{
+    background-image: url(./assets/bg.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 95%;
+}
